@@ -37,4 +37,7 @@ for i in range(1, B.shape[0]):
     else:
         c = 1
 
-print(n - max_cont)
+if n == 1:
+    print(1)
+else:
+    print(n - max_cont)
