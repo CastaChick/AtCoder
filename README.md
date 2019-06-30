@@ -1,5 +1,5 @@
 # AtCoder
 
-This repository include all programs submited to AtCoder by [@Casta46](https://atcoder.jp/users/Casta46).
+このリポジトリはAtCoderに[@Casta46](https://atcoder.jp/users/Casta46)が提出したコードです。
 
-WA codes are also in this repository. I'll add tags to files (AC, WA, TLE).
+※ACのみでは無くWA、TLEなども含まれています。
