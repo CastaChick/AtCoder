@@ -10,7 +10,7 @@ dp = [1]
 
 if a[1] == 1:
     dp.append(0)
-else :
+else:
     dp.append(1)
 
 for i in range(2, n+1):
